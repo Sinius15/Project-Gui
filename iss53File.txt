@@ -1,6 +1,0 @@
-we are creating a test website with git
-<head>
-</head>
-<body>
-text
-</body>
